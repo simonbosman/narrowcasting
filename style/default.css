@@ -1,0 +1,10 @@
+*#telephone {
+  border-image: url('telephone.png') 0;
+  font-weight: bold;
+}
+
+*#telephone:active {
+  border-image: url('telephone_dark.png') 0;
+  font-weight: bold;
+}
+
